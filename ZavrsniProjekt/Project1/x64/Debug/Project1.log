@@ -1,0 +1,14 @@
+﻿  Functions.c
+C:\Users\lstif\Desktop\VisualStudioProjekt\ZavrsniProjekt\Project1\Functions.c(120,26): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\lstif\Desktop\VisualStudioProjekt\ZavrsniProjekt\Project1\Functions.c(182,3): warning C4033: 'pretrazivnajeLijeka' must return a value
+C:\Users\lstif\Desktop\VisualStudioProjekt\ZavrsniProjekt\Project1\Functions.c(255,30): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lstif\Desktop\VisualStudioProjekt\ZavrsniProjekt\Project1\Functions.c(255,53): warning C4090: 'function': different 'const' qualifiers
+C:\Users\lstif\Desktop\VisualStudioProjekt\ZavrsniProjekt\Project1\Functions.c(278,11): warning C4098: 'azuriranjeLijeka': 'void' function returning a value
+C:\Users\lstif\Desktop\VisualStudioProjekt\ZavrsniProjekt\Project1\Functions.c(469,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  GlavniIzbornik.c
+C:\Users\lstif\Desktop\VisualStudioProjekt\ZavrsniProjekt\Project1\GlavniIzbornik.c(50,4): warning C4013: 'free' undefined; assuming extern returning int
+  main.c
+C:\Users\lstif\Desktop\VisualStudioProjekt\ZavrsniProjekt\Project1\main.c(19,13): warning C4013: 'izbornik' undefined; assuming extern returning int
+  Generating Code...
+C:\Users\lstif\Desktop\VisualStudioProjekt\ZavrsniProjekt\Project1\Functions.c(186): warning C4715: 'pretrazivnajeLijeka': not all control paths return a value
+  Project1.vcxproj -> C:\Users\lstif\Desktop\VisualStudioProjekt\ZavrsniProjekt\x64\Debug\Project1.exe
